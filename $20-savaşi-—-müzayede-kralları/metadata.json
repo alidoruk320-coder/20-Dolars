@@ -1,0 +1,6 @@
+{
+  "name": "$20 SAVAŞI — Müzayede Kralları",
+  "description": "2 oyunculu heyecan dolu açık artırma oyunu. $20 Eşya Savaşı, Garaj Savaşları ve Gemini Yapay Zeka maç sonu analizleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
